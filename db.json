@@ -1,0 +1,86 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "a",
+      "price": 333,
+      "image": "download.jpg"
+    },
+    {
+      "id": 2,
+      "name": "b",
+      "price": 222,
+      "image": "download (1).jpg"
+    },
+    {
+      "id": 3,
+      "name": "c",
+      "price": 333,
+      "image": "download (2).jpg"
+    },
+    {
+      "id": 4,
+      "name": "d",
+      "price": 333,
+      "image": "download (4).jpg"
+    },
+    {
+      "id": 5,
+      "name": "d",
+      "price": 333,
+      "image": "download (5).jpg"
+    },
+    {
+      "id": 6,
+      "name": "d",
+      "price": 333,
+      "image": "download (6).jpg"
+    },
+    {
+      "id": 7,
+      "name": "d",
+      "price": 333,
+      "image": "download (3).jpg"
+    }
+  ],
+  "student": [
+    {
+      "name": "vasu",
+      "mailId": "vasu@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "pavi",
+      "mailId": "pavi@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "beena",
+      "mailId": "beena@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "dhul",
+      "mailId": "dhul@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "vasu",
+      "mailId": "vasu@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "",
+      "mailId": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "mailId": "",
+      "id": 7
+    }
+  ],
+  "formDataList": [
+    {}
+  ]
+}
